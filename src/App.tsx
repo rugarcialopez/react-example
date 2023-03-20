@@ -5,8 +5,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <ExpenseItem title="Card insurance" amount={294.67} date={new Date()}/>
+      {/* <ExpenseItem />
       <ExpenseItem />
+      <ExpenseItem /> */}
     </div>
   );
 }
