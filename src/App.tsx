@@ -1,5 +1,5 @@
 import React from 'react';
-import ExpenseItem  from './ExpenseItem/ExpenseItem';
+import ExpenseItem  from './components/ExpenseItem/ExpenseItem';
 import logo from './logo.svg';
 import './App.css';
 
